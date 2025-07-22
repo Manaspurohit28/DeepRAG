@@ -1,0 +1,6 @@
+streamlit
+langchain
+faiss-cpu
+pymupdf
+ollama
+flask
